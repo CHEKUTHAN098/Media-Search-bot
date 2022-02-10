@@ -31,6 +31,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Messages
 default_start_msg = """
 **Hi, I'm Media Search bot**
+I'm made by Chekuthan 1.0,and I'm a auto filter bot you can use me for search movie
+Team RR movie 
 
 Here you can search files in inline mode. Just press following buttons and start searching.
 """
